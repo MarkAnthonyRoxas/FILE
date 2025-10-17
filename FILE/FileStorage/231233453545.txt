@@ -1,0 +1,9 @@
+Student Number: 231233453545
+Last Name: ROXAS
+First Name: MARK
+Middle Name: A
+Gender: MALE
+Birthday: 5 Mar 2003
+Program: BSIT
+Contact No: 0996454756435
+Age: 23

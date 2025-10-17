@@ -49,6 +49,7 @@ namespace FILE
                 }
             }
             MessageBox.Show("Registration file created!");
+            Application.Exit();
         }
 
         private void FrmRegistration_Load(object sender, EventArgs e)
